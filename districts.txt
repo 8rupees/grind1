@@ -1,0 +1,7 @@
+Ahmedabad (Urban)
+Bharuch (Urban)
+Junagadh (Rural)
+Kachchh (Rural)
+Mehsana (Urban)
+Rajkot (Urban)
+Surat (Urban)
